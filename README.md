@@ -6,6 +6,8 @@ Icon repo for Sky:CotL
 Most icons use the same set of colors. Some icons include gradients and/or unique colors.  
 The main set of colors per icon type (for use on the wiki) can be found below.
 
+> Source: https://sky-children-of-the-light.fandom.com/wiki/Help:Wiki_Guidelines_for_Editing#Adding_Images_of_Cosmetics,_Instruments,_Props,_etc.
+
 ### Palettes
 
 GIMP / Inkscape (`.gpl`): https://github.com/Silverfeelin/SkyGame-Icons/blob/main/gimp/palettes/skygame.gpl
