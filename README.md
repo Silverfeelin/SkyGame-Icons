@@ -1,7 +1,9 @@
 # SkyGame-Icons
-Icon repo for Sky:CotL.
 
-For icon guidelines, please view the wiki article [Wiki Guidelines for Editing](https://sky-children-of-the-light.fandom.com/wiki/Help:Wiki_Guidelines_for_Editing).
+Silverfeelin's icon repo for Sky:CotL.
+
+Please view the wiki article for icon guidelines. [Wiki Guidelines for Editing](https://sky-children-of-the-light.fandom.com/wiki/Help:Wiki_Guidelines_for_Editing).  
+Icons in this repo use a 300x300 pixel viewbox and are designed for use on the wiki.
 
 ## Colors
 
