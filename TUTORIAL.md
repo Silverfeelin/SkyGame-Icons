@@ -114,9 +114,20 @@ Example before and after cleaning up the back side of the basket:
 ![](https://i.imgur.com/0uKnycB.png)
 ![](https://i.imgur.com/XviPla3.png)
 
+## Scaling the icon
+
+* Select all the path layers in the layers menu
+* Press `S` to use the selector tool.
+* Press `Ctrl + Shift + A` or `Object > Align and Distribute` to open the align menu.
+* Align the icon by pressing the align center buttons after making sure `Move/align selection as group` is enabled.
+
+![](https://i.imgur.com/dkZiDIk.png)
+
+* Hold `Ctrl` and `Shift` while dragging the corner of the icon to scale it to the desired size. The wiki recommends leaving roughly 25-50 pixels of space around the icon. Use the guide lines as an indicator if needed.
+
 ## Adding a stroke
 
-For most icons, a single stroke is added around the entire icon. Here's the easiest wayt to apply the stroke:
+For most icons, a single stroke is added around the entire icon. Here's the easiest way to apply the stroke:
 
 * Select **all** the paths (hold `Ctrl` of `Shift` while clicking on the paths in the layer menu).
 * Duplicate the paths (`Ctrl + D` or `Right click > Duplicate`).
@@ -134,20 +145,7 @@ For most icons, a single stroke is added around the entire icon. Here's the easi
   * Blur: `11.4%` (at the very bottom of the menu).
   * If your stroke looks completely different from the below example, you likely did not select both the stroke and reference layer, or the reference layer is not 300x300px. You can either try again or manually change the blur percentage.
 
-![](https://i.imgur.com/D0n4ErV.png)
-
-## Scaling the icon
-
-* Select all the path layers in the layers menu
-* Press `S` to use the selector tool.
-* Press `Ctrl + Shift + A` or `Object > Align and Distribute` to open the align menu.
-* Align the icon by pressing the align center buttons after making sure `Move/align selection as group` is enabled.
-
-![](https://i.imgur.com/dkZiDIk.png)
-
-* Hold `Ctrl` and `Shift` while dragging the corner of the icon to scale it to the desired size. The wiki recommends leaving roughly 25-50 pixels of space around the icon. Use the guide lines as an indicator if needed.
-
-![](https://i.imgur.com/HbiqKVy.png)
+![](https://i.imgur.com/No66uG6.png)
 
 ## Saving the icon
 
@@ -160,5 +158,3 @@ When saving the icon, it is highly recommended to always keep a copy of the icon
   * Make sure the settings are 300x300px with a DPI of 96.
 
 That's it! You now have an icon ready to be used on the wiki.
-
-![](https://i.imgur.com/V3ZB6kg.png)
